@@ -135,3 +135,34 @@ a.app-icon {
 .page-template-page-reinvent .displaymax-exceeded.css-mode .js-slide-frame-fbcorp {
     overflow-x: hidden;
 }
+
+.page-template-page-front-page button#js-open-hero-modal-desktop.arrow-link.arrow-link-varicolor span svg {
+    width: 34px;
+    height: 34px;
+}
+
+.page-template-page-front-page button#js-open-hero-modal-desktop.arrow-link.arrow-link-varicolor span {
+    margin-left: 0px;
+    width: 38px;
+}
+
+@media (max-width: 640px) {
+
+.page-template-page-reinvent .reinvent-context-section .section-col-inner.hero-col-inner {
+    padding-top: 0px;
+}
+
+.page-template-page-reinvent .reinvent-content-embed.basiccard-link.basiccard-link--stories {
+    margin-bottom: 16px;
+}
+}
+
+@media (max-width: 959px) {
+.page-template-page-elections.has-hero-bg .hero-section {
+    padding-top: 124px;
+}
+}
+
+.page-projectaria .section-frl_two_column_text_asset a.arrow-link.see-more-link:before {
+    margin-top: 0px;
+}
