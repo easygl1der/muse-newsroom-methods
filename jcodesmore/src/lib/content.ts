@@ -86,7 +86,7 @@ export const SECURITY_POINTS = [
   "People choose which apps Muse connects to and exactly how much access it gets. For things like email, people choose what Muse can do, whether it reads their mail or can also send on their behalf.",
   "People can change access or disconnect a service whenever they want. People can also opt out of their interactions being used to train Meta’s AI models.",
   "Muse doesn’t share a person’s conversations or the data in their VM with Meta’s ad systems.",
-  "Muse remembers what matters to a person, and they can always tell it to \u201cforget\u201d specific things it’s learned.",
+  "Muse remembers what matters to a person, and they can always tell it to “forget” specific things it’s learned.",
 ] as const;
 
 export const RELATED = [
