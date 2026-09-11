@@ -4,3 +4,9 @@
     max-width: 190px !important;
     margin: 20px 0px !important;
 }
+
+/* Footer Nav - 2022 */
+.footer-container .footer-column-widget.widget_nav_menu {
+    min-height: auto;
+    margin-bottom: 24px;
+}
