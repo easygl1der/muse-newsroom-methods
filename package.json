@@ -1,0 +1,20 @@
+{
+  "name": "muse-newsroom-methods",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public gallery of three Muse Newsroom study-clone previews: hub :43210, Method A JCodesMore :43211, Method B Perfect-Web-Clone :43212. Not official Meta.",
+  "scripts": {
+    "hub": "node hub/server.mjs",
+    "dev:hub": "node hub/server.mjs",
+    "dev:a": "npm run dev --prefix jcodesmore",
+    "dev:b": "npm run dev --prefix perfect-web-clone",
+    "install:all": "npm install --prefix jcodesmore && npm install --prefix perfect-web-clone"
+  },
+  "keywords": [
+    "study-clone",
+    "newsroom",
+    "jcodesmore",
+    "perfect-web-clone"
+  ],
+  "license": "ISC"
+}
