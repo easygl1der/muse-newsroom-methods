@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.pwc/
+.DS_Store
+*.mp4
+*.mp3
+public/assets/videos/
