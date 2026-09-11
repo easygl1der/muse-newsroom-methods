@@ -166,3 +166,511 @@ a.app-icon {
 .page-projectaria .section-frl_two_column_text_asset a.arrow-link.see-more-link:before {
     margin-top: 0px;
 }
+
+@media screen and (min-width: 960px) {
+    .postid-30969.single .videoWrapper.fb .fb-video.fb_iframe_widget.fb_iframe_widget_fluid_desktop.verticalvid {
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+    .postid-30969.single .fb_iframe_widget_fluid_desktop.verticalvid span {
+        width: 100% !important;
+    }
+    .postid-30969.single .entry-content .fb_iframe_widget_fluid_desktop.verticalvid span {
+        width: 550px !important;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+.page-template-page-chub .section-chub_campaign_b .section-desc+.cta {
+    margin-top: 0;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+}
+
+@media screen and (min-width: 960px) {
+.home .home-hero .section-inner {
+    margin-top: 0px;
+}
+}
+
+.page-remote-work-resources .section-action_links {
+    background-color: #f5f6f6 !important;
+}
+.page-remote-work-resources .section-action_links .section-col-inner {
+    padding-left: 0px;
+}
+
+.sitemap-container .sitemap-novi>a:before {
+    background-image: url(/assets/images/novi.svg);
+}
+
+/* Community Hub CSS Updates */
+.page-template-page-chub h1.hero-headline,
+.page-template-page-chub .home-hero-title h1,
+.page-template-page-front-page h1.hero-headline,
+.page-template-page-front-page .home-hero-title h1,
+.page-template-page-actions h1.hero-headline,
+.page-template-page-actions .home-hero-title h1{
+    font-size: 48px;
+    line-height: 58px;
+}
+
+.page-template-page-chub .hero-intro-container,
+.page-template-page-front-page .hero-intro-container,
+.page-template-page-actions .hero-intro-container{
+    margin-bottom: 0px;
+}
+
+@media screen and (min-width: 960px) {
+.page-template-page-chub .home-hero .section-inner,
+	.page-template-page-front-page .home-hero .section-inner,
+	.page-template-page-actions .home-hero .section-inner{
+    margin-top: unset;
+}
+}
+
+@media screen and (max-width: 414px) {
+.page-template-page-chub .home-hero-title,
+	.page-template-page-front-page .home-hero-title,
+	.page-template-page-actions .home-hero-title {
+    max-width: 100%;
+}
+}
+
+@media screen and (max-width: 959px) {
+.page-template-page-chub h1.hero-headline,
+.page-template-page-chub .home-hero-title h1,
+	.page-template-page-front-page h1.hero-headline,
+.page-template-page-front-page .home-hero-title h1,
+	.page-template-page-actions h1.hero-headline,
+.page-template-page-actions .home-hero-title h1 {
+    font-size: 32px !important;
+    line-height: 38px !important;
+}
+	}
+
+@media (max-width: 639px) {
+.page-template-page-front-page .home-hero-v2 .hero-intro-container {
+    margin-top: 0px;
+}
+}
+
+@media (max-width: 959px) {
+section.belowhero-video.section.hero-actions-home {
+    margin-top: 0px  !important;
+}
+}
+
+@media screen and (max-width: 480px) {
+	.specificVideo {
+		    max-height: 465px !important;
+	}
+}
+
+/* Vertical Video Resize */
+@media screen and (min-width: 960px) {
+	.specificVideo {
+				    margin: 0 0 0 20%;
+			}
+	.single .entry-content .fb_iframe_widget_fluid_desktop.verticalvid span { width: 285px !important; }
+	.fb-video.fb_iframe_widget.fb_iframe_widget_fluid_desktop.verticalvid { max-height: fit-content; }
+}
+
+.page-template-page-actions .section, .page-template-page-actions .related-posts.related-posts-multiterm {
+    overflow: hidden;
+    position: relative;
+}
+
+/* PA Caption Update */
+@media (min-width: 991px) {
+    .page-template-page-actions .three_video_media .card-title-wrap {
+        padding-bottom: 16px;
+    }
+}
+
+@media (max-width: 991px) {
+    .page-template-page-actions .three_video_media .card-title-wrap .card-title {
+        padding-top: 0px;
+    }
+}
+
+/* SDG */
+.section-sdg_related_links2 {
+    background-color: #FFFFFF;
+}
+.section-sdg_related_links2 {
+    padding-top: 0px;
+}
+.section-sdg_imgdividerblock .img-content-block .company-stats-desc, .section-sdg_imgdividerblock .img-content-block .company-stats-desc2 {
+    color: #FFFFFF;
+}
+@media screen and (max-width: 768px) {
+.section-sdg_imgdividerblock.modular-section-5 .stats-featured-image.stats-featured-image-mobile {
+    background-position: 90% bottom;
+}
+}
+@media screen and (min-width: 1200px) {
+        .page-template-page-sdg h1.hero-headline, .page-template-page-sdg .home-hero-title h1 {
+    margin: 20px 0px 0px 0px;
+}
+        .page-template-page-sdg .home-hero .section-inner {
+            margin-top: 40px !important;
+        }
+}
+
+@media screen and (min-width: 1200px), 
+       screen and (max-width: 1380px) {
+        .page-template-page-sdg .home-hero-title br.desktop {
+            display: none;
+        }
+}
+
+/* Good Ideas Shop */
+@media (max-width: 639px) {
+.hero2 .section-title {
+        line-height: 120% !important;
+	margin-bottom: 15px !important;
+    }
+    .herocontent p {
+			    line-height: 26px !important;
+    font-size: 19px !important;
+			    margin-bottom: 17px !important;
+    }
+    .hero2--w-bg.hero2--gifts {
+    padding-top: 110px !important;
+    padding-bottom: 100px !important;
+    }
+	.section-card_slider_more_ways {
+        padding-top: 62px;
+        padding-bottom: 0px;
+    }
+}
+.page-template-page-gifts .filters-toggle .button-icon {
+    margin-right: 12px;
+}
+.section-gg_two_column_text_asset .ctalink .fbcorp-icon-alertarrow {
+	    margin-top: 1px;
+}
+
+@media (min-width: 960px) {
+    .section-card_slider_more_ways {
+        padding-bottom: 70px;
+    }
+}
+
+/* Alert Bar Mobile */
+@media (max-width: 639px) {
+    a .locale-prompt-body-inner, a .alert-body-inner {
+        padding-left: 25%;
+    }
+}
+
+/* Multi Carousel Page */
+
+.page-template-page-mothers-day .basiccard-image .aspect-spacer {
+    padding-bottom: 100% !important;
+}
+
+.wp-caption-text {
+	text-align: left;
+	    color: #677b8c;
+	    font-size: 16px;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+	    margin-top: 0px !important;
+}
+
+.hero-mothers-day .section-divider-wrap {
+    padding-top: 30px;
+}
+
+.page-template-page-mothers-day .hero-text div.desc {
+    color: #344854;
+    font-family: 'Optimistic Text',sans-serif;
+    font-size: 1rem;
+    line-height: 1.5 !important;
+	    letter-spacing: .32px !important;
+	    font-size: 18px !important;
+}
+
+
+.page-template-page-mothers-day .section-card_slider {
+    padding-top: 65px;
+	    background-color: #F1F4F7;
+	padding-bottom: 81px;
+}
+
+.section-card_slider .section-title {
+    color: #1C2B33 !important;
+    font-size: 38px;
+    line-height: 150% !important;
+    letter-spacing: 0.02em !important;
+	    font-family: 'Optimistic Display','NotoSans','NotoSansJP','NotoSansKR',sans-serif;
+    font-weight: 400 !important;
+	text-transform: capitalize;
+}
+
+.page-template-page-mothers-day .section-header+.basiccard-cards-area {
+    margin-top: 0px;
+}
+
+.page-template-page-mothers-day .uk-container-large {
+	max-width: 1200px !important;
+}
+
+.hero-mothers-day .section-title {
+    color: #344854 !important;
+    margin: 0 0 48px !important;
+}
+
+.hero-mothers-day .section-title:before {
+    content: "Meta";
+    margin-bottom: 11px;
+    color: #232323;
+    padding-bottom: 0px;
+    border-bottom: 2px solid #1877F2;
+    font-size: 1.125rem;
+    font-weight: 400;
+    letter-spacing: .06em;
+    width: 49px;
+	max-height: 47px;
+	display: block;
+}
+
+.hero-mothers-day .section-title:after {
+    content: "June 21, 2022";
+    margin-bottom: 11px;
+	padding-top: 20px;
+    padding-bottom: 0px;
+    display: block;
+    font-size: .875rem;
+    margin-top: 0 !important;
+    line-height: 1.125rem;
+    color: #666;
+    font-weight: 400;
+    letter-spacing: .3px;
+}
+
+.page-template-page-mothers-day .hero-text {
+		    padding-bottom: 40px;
+}
+
+@media (min-width: 960px) {
+.page-template-page-mothers-day .hero-text div.desc p {
+    width: 80%;
+}
+	.page-template-page-mothers-day .hero-text {
+	width: calc(100%*2/3.001);
+}
+	.page-template-page-mothers-day .section-card_slider {
+    padding-top: 65px !important;
+}
+}
+
+@media (min-width: 640px) {
+	.page-template-page-mothers-day .uk-push-1-12\@s {
+		margin-left: 0px !important;
+	}
+}
+
+@media (max-width: 640px) {
+		.page-template-page-mothers-day .basiccard-cards-area .js-prev-slide {
+    margin-left: 5vw;
+}
+	.page-template-page-mothers-day .basiccard-cards-area .js-next-slide {
+    margin-right: 26vw;
+}
+}
+
+@media (max-width: 480px) {
+		.page-template-page-mothers-day .basiccard-cards-area .js-prev-slide {
+    margin-left: 5vw;
+}
+	.page-template-page-mothers-day .basiccard-cards-area .js-next-slide {
+    margin-right: 17vw;
+}
+}
+
+@media (max-width: 640px) {
+
+	.page-template-page-mothers-day a.arrow-link:before, .page-template-page-mothers-day a.arrow-link:before {
+    margin-top: 7px !important;
+}
+	
+.page-template-page-mothers-day .section-card_slider {
+    padding-top: 24px !important;
+    padding-bottom: 35px !important;
+}
+
+.section-card_slider .section-title {
+    font-size: 30px !important;
+}
+	
+	.page-template-page-mothers-day .basiccard-cards-area>.uk-width-1-1 {
+    padding-left: 20px !important;
+}
+	.page-template-page-mothers-day .carousel-ctrls-fbcorp {
+    display: block !important;
+}
+	.page-template-page-mothers-day .css-mode .basiccard-card {
+    width: 310px !important;
+}
+	.page-template-page-mothers-day .carousel-ctrls-fbcorp svg {
+    width: 22px !important;
+    height: 22px !important;
+}
+	.page-template-page-mothers-day .js-prev-slide, .page-template-page-mothers-day .js-next-slide {
+    top: 20%;
+	}
+	
+.page-template-page-mothers-day .fbcorp-icon-arrow-left-bluegray svg	{
+		background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjMiIGhlaWdodD0iMjIiIHZpZXdCb3g9IjAgMCAyMyAyMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzE3MTZfMzAxKSI+CjxwYXRoIGQ9Ik0xMS40OTQ0IC00LjgwODI1ZS0wN0MxNy41Njk1IC0yLjE1MjczZS0wNyAyMi40OTQ0IDQuOTI0ODcgMjIuNDk0NCAxMVYxMUMyMi40OTQ0IDE3LjA3NTEgMTcuNTY5NSAyMiAxMS40OTQ0IDIyVjIyQzUuNDE5MjUgMjIgMC40OTQzODQgMTcuMDc1MSAwLjQ5NDM4NCAxMVYxMUMwLjQ5NDM4NSA0LjkyNDg3IDUuNDE5MjUgLTcuNDYzNzhlLTA3IDExLjQ5NDQgLTQuODA4MjVlLTA3Vi00LjgwODI1ZS0wN1oiIGZpbGw9IndoaXRlIiBmaWxsLW9wYWNpdHk9IjAuMyIvPgo8cGF0aCBkPSJNMjEuODgzMyAxMUMyMS44ODMzIDEzLjA1NDcgMjEuMjc0IDE1LjA2MzMgMjAuMTMyNCAxNi43NzE4QzE4Ljk5MDkgMTguNDgwMiAxNy4zNjg0IDE5LjgxMTggMTUuNDcgMjAuNTk4MUMxMy41NzE3IDIxLjM4NDQgMTEuNDgyOSAyMS41OTAxIDkuNDY3NjEgMjEuMTg5M0M3LjQ1MjM2IDIwLjc4ODQgNS42MDEyNCAxOS43OTkgNC4xNDgzMyAxOC4zNDYxQzIuNjk1NDIgMTYuODkzMSAxLjcwNTk3IDE1LjA0MiAxLjMwNTExIDEzLjAyNjhDMC45MDQyNTcgMTEuMDExNSAxLjEwOTk5IDguOTIyNjcgMS44OTYzIDcuMDI0MzVDMi42ODI2MSA1LjEyNjAzIDQuMDE0MTggMy41MDM1IDUuNzIyNjMgMi4zNjE5NkM3LjQzMTA3IDEuMjIwNDEgOS40Mzk2NiAwLjYxMTExNiAxMS40OTQ0IDAuNjExMTE2QzE0LjI0OTcgMC42MTExMTYgMTYuODkyMSAxLjcwNTY2IDE4Ljg0MDQgMy42NTM5NUMyMC43ODg3IDUuNjAyMjUgMjEuODgzMyA4LjI0NDcgMjEuODgzMyAxMVYxMVpNMjIuNDk0NCAxMUMyMi40OTQ0IDguODI0NDEgMjEuODQ5MiA2LjY5NzY3IDIwLjY0MDYgNC44ODg3M0MxOS40MzE5IDMuMDc5NzkgMTcuNzEzOSAxLjY2OTg5IDE1LjcwMzkgMC44MzczM0MxMy42OTM5IDAuMDA0NzY1NzYgMTEuNDgyMiAtMC4yMTMwNzEgOS4zNDgzOSAwLjIxMTM2NkM3LjIxNDYgMC42MzU4MDQgNS4yNTQ1OSAxLjY4MzQ1IDMuNzE2MjEgMy4yMjE4M0MyLjE3NzgzIDQuNzYwMjEgMS4xMzAxOCA2LjcyMDIyIDAuNzA1NzQ2IDguODU0MDFDMC4yODEzMDggMTAuOTg3OCAwLjQ5OTE0NSAxMy4xOTk1IDEuMzMxNzEgMTUuMjA5NUMyLjE2NDI3IDE3LjIxOTUgMy41NzQxNyAxOC45Mzc1IDUuMzgzMTEgMjAuMTQ2MkM3LjE5MjA1IDIxLjM1NDkgOS4zMTg3OSAyMiAxMS40OTQ0IDIyQzE0LjQxMTggMjIgMTcuMjA5NyAyMC44NDExIDE5LjI3MjYgMTguNzc4MkMyMS4zMzU1IDE2LjcxNTMgMjIuNDk0NCAxMy45MTc0IDIyLjQ5NDQgMTFWMTFaIiBmaWxsPSIjMUMyQjMzIi8+CjxwYXRoIGQ9Ik0xMy40NzQ0IDE1LjU4MzJMOC44OTEwOSAxMC45OTk4TDEzLjQ3NDQgNi40MTY1IiBzdHJva2U9IiMxQzJCMzMiIHN0cm9rZS13aWR0aD0iMC44IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiLz4KPC9nPgo8ZGVmcz4KPGNsaXBQYXRoIGlkPSJjbGlwMF8xNzE2XzMwMSI+CjxwYXRoIGQ9Ik0xMS40OTQ0IC00LjgwODI1ZS0wN0MxNy41Njk1IC0yLjE1MjczZS0wNyAyMi40OTQ0IDQuOTI0ODcgMjIuNDk0NCAxMVYxMUMyMi40OTQ0IDE3LjA3NTEgMTcuNTY5NSAyMiAxMS40OTQ0IDIyVjIyQzUuNDE5MjUgMjIgMC40OTQzODQgMTcuMDc1MSAwLjQ5NDM4NCAxMVYxMUMwLjQ5NDM4NSA0LjkyNDg3IDUuNDE5MjUgLTcuNDYzNzhlLTA3IDExLjQ5NDQgLTQuODA4MjVlLTA3Vi00LjgwODI1ZS0wN1oiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg==")
+	}
+	
+.page-template-page-mothers-day .fbcorp-icon-arrow-right-bluegray svg {
+		background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjMiIGhlaWdodD0iMjMiIHZpZXdCb3g9IjAgMCAyMyAyMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzE3MTZfMzAyKSI+CjxwYXRoIGQ9Ik0xMS43MTA0IDIzQzUuNjM1MzIgMjMgMC43MTA0NDkgMTguMDY1NyAwLjcxMDQ0OSAxMS45OTA2QzAuNzEwNDQ5IDUuOTE1NDkgNS42MzUzMiAwLjk4MTIzNiAxMS43MTA0IDAuOTgxMjM2QzE3Ljc4NTYgMC45ODEyMzYgMjIuNzEwNCA1LjkxNTQ5IDIyLjcxMDQgMTEuOTkwNkMyMi43MTA0IDE4LjA2NTcgMTcuNzg1NiAyMyAxMS43MTA0IDIzWiIgZmlsbD0id2hpdGUiIGZpbGwtb3BhY2l0eT0iMC4zIi8+CjxwYXRoIGQ9Ik0xLjMyMTU2IDExLjk5MDZDMS4zMjE1NiA5LjkzNDEzIDEuOTMwODYgNy45MjM4MyAzLjA3MjQgNi4yMTM5M0M0LjIxMzk1IDQuNTA0MDMgNS44MzY0NyAzLjE3MTMzIDcuNzM0NzkgMi4zODQzNEM5LjYzMzEyIDEuNTk3MzYgMTEuNzIyIDEuMzkxNDUgMTMuNzM3MiAxLjc5MjY1QzE1Ljc1MjUgMi4xOTM4NSAxNy42MDM2IDMuMTg0MTQgMTkuMDU2NSA0LjYzODI5QzIwLjUwOTQgNi4wOTI0NSAyMS40OTg5IDcuOTQ1MTUgMjEuODk5NyA5Ljk2MjExQzIyLjMwMDYgMTEuOTc5MSAyMi4wOTQ4IDE0LjA2OTcgMjEuMzA4NSAxNS45Njk3QzIwLjUyMjIgMTcuODY5NiAxOS4xOTA3IDE5LjQ5MzUgMTcuNDgyMiAyMC42MzZDMTUuNzczOCAyMS43Nzg1IDEzLjc2NTIgMjIuMzg4NCAxMS43MTA0IDIyLjM4ODRDOC45NTUxNCAyMi4zODg0IDYuMzEyNjkgMjEuMjkyOSA0LjM2NDQgMTkuMzQyOUMyLjQxNjEgMTcuMzkzIDEuMzIxNTYgMTQuNzQ4MyAxLjMyMTU2IDExLjk5MDZaTTAuNzEwNDQ5IDExLjk5MDZDMC43MTA0NDkgMTQuMTY4MSAxLjM1NTU5IDE2LjI5NjYgMi41NjQyOCAxOC4xMDcxQzMuNzcyOTggMTkuOTE3NiA1LjQ5MDk0IDIxLjMyODcgNy41MDA5MyAyMi4xNjJDOS41MTA5MiAyMi45OTUyIDExLjcyMjcgMjMuMjEzMyAxMy44NTY0IDIyLjc4ODVDMTUuOTkwMiAyMi4zNjM3IDE3Ljk1MDIgMjEuMzE1MSAxOS40ODg2IDE5Ljc3NTRDMjEuMDI3IDE4LjIzNTcgMjIuMDc0NiAxNi4yNzQgMjIuNDk5MSAxNC4xMzg0QzIyLjkyMzUgMTIuMDAyOCAyMi43MDU3IDkuNzg5MjEgMjEuODczMSA3Ljc3NzUxQzIxLjA0MDYgNS43NjU4IDE5LjYzMDcgNC4wNDYzNyAxNy44MjE3IDIuODM2NjVDMTYuMDEyOCAxLjYyNjkyIDEzLjg4NiAwLjk4MTIzMiAxMS43MTA0IDAuOTgxMjMyQzguNzkzMDcgMC45ODEyMzIgNS45OTUxOCAyLjE0MTE0IDMuOTMyMjcgNC4yMDU4QzEuODY5MzcgNi4yNzA0NiAwLjcxMDQ0OSA5LjA3MDc0IDAuNzEwNDQ5IDExLjk5MDZIMC43MTA0NDlaIiBmaWxsPSIjMUMyQjMzIi8+CjxwYXRoIGQ9Ik05LjczMDQ3IDcuNDAzMTVMMTQuMzEzOCAxMS45OTA0TDkuNzMwNDcgMTYuNTc3NiIgc3Ryb2tlPSIjMUMyQjMzIiBzdHJva2Utd2lkdGg9IjAuOCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+CjwvZz4KPGRlZnM+CjxjbGlwUGF0aCBpZD0iY2xpcDBfMTcxNl8zMDIiPgo8cGF0aCBkPSJNMTEuNzEwNCAyM0M1LjYzNTMyIDIzIDAuNzEwNDQ5IDE4LjA2NTcgMC43MTA0NDkgMTEuOTkwNkMwLjcxMDQ0OSA1LjkxNTQ5IDUuNjM1MzIgMC45ODEyMzYgMTEuNzEwNCAwLjk4MTIzNkMxNy43ODU2IDAuOTgxMjM2IDIyLjcxMDQgNS45MTU0OSAyMi43MTA0IDExLjk5MDZDMjIuNzEwNCAxOC4wNjU3IDE3Ljc4NTYgMjMgMTEuNzEwNCAyM1oiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg==")
+	}
+	
+.page-template-page-mothers-day .fbcorp-icon-arrow-left-bluegray svg g, .page-template-page-mothers-day .fbcorp-icon-arrow-right-bluegray svg g {
+    visibility: hidden;
+}
+	
+}
+
+.page-template-page-mothers-day .carousel-ctrls-fbcorp svg {
+width: 32px;
+height: 32px;
+}
+
+.page-template-page-mothers-day .basiccard-cards-area>.uk-width-1-1 {
+padding-left: 0px;
+	    width: 100%;
+}
+
+.page-template-page-mothers-day .basiccard-body h3 {
+color: #1C2B33 !important;
+font-size: 26px;
+line-height: 150%;
+letter-spacing: 0.02em;
+}
+
+.page-template-page-mothers-day .basiccard-body {
+	padding: 24px 0px 17px;
+	display: inline-grid;
+}
+
+.page-template-page-mothers-day a.card-url {
+color: #67788A !important;
+font-size: 20px;
+line-height: 150%;
+letter-spacing: 0.02em;
+text-decoration: none !important;
+}
+
+.page-template-page-mothers-day .basiccard-desc {
+color: #1C2B33 !important;
+padding-top: 23px;
+    margin-bottom: 0px !important;
+}
+
+.page-template-page-mothers-day .basiccard-card-inner {
+background-color: transparent !important;
+border: none !important;
+}
+
+.page-template-page-mothers-day .section-card_slider:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+.page-template-page-mothers-day .section-divider-wrap {
+    display: none;
+}
+
+.page-template-page-mothers-day .basiccard-body .basiccard-desc {
+    order: 2;
+}
+
+.page-template-page-mothers-day .basiccard-body a {
+    order: 1;
+    position: relative;
+	padding-right: 0px;
+	color: #67788A !important;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-decoration: none !important;
+	    margin-bottom: 0px;
+}
+
+.page-template-page-mothers-day .basiccard-body a:before {
+	display: none;
+}
+
+.page-template-page-mothers-day .basiccard-card-inner:hover .basiccard-body a.app-icon {
+    text-decoration: none !important;
+}
+
+.page-template-page-mothers-day .backtonr {
+    position: absolute;
+    bottom: -20px;
+}
+
+.page-template-page-mothers-day .modular-section-last {
+    overflow: visible;
+}
+
+.back-to-newsroom a.arrow-link {
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.page-template-page-mothers-day a.arrow-link:before, .page-template-page-mothers-day a.arrow-link:before {
+    transform: scaleX(-1);
+	margin-top: 12px;
+}
+
+.page-template-page-mothers-day.no-hero-bg .site-header:not(.uk-active), .page-template-page-mothers-day .site-header:not(.uk-active) {
+    border-bottom-color: rgba(22,22,22,.16) !important;
+}
+
+.page-template-page-mothers-day .fb-like span {
+    height: 20px !important;
+}
+
+/* Slideshow */
+.single .jetpack-slideshow-window {
+    background-color: #fff !important;
+    border: none !important;
+    padding-bottom: 82.25% !important;
+}
+.single .jetpack-slideshow-slide {
+    background-color: #fff !important;
+}
+
+.single .jetpack-slideshow-window {
+    overflow: visible;
+    /* margin-bottom: 8%; */
+    margin-bottom: 0px;
+}
+
+.single .jetpack-slideshow-window:has(.jetpack-slideshow-slide-caption:empty) {
+    margin-bottom: -10px;
+}
+
+.jetpack-slideshow-slide-caption {
+    color: #677b8c !important;
+    text-shadow: none !important;
+    font-size: 1rem !important;
+    line-height: 1.5 !important;
+    font-weight: 400 !important;
+    height: 30px !important;
+    bottom: -34px !important;
+	text-align: left !important;
+	    font-family: 'Optimistic Text',sans-serif !important;
+}
+
+@media (max-width: 480px) {
