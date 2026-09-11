@@ -87,3 +87,51 @@ display: none !important;
     border-color: rgba(22,22,22,.16);
     background: #fff;
 }
+/*
+.site-header:not(.uk-active) .primary-menu > .menu-item > .menu-link, .site-header:not(.uk-active) .search-glass-icon {
+    color: #677b8c !important;
+}
+*/
+.site-header:not(.uk-active) .menu-toggle-inner > .toggle-bar {
+    background-color: #677b8c !important;
+}
+
+/* Eyebrow */
+.news-label.label-line.label-meta, .cat-link.cat-slug-meta {
+    border-bottom-color: #1877F2;
+}
+.news-label.label-line.label-facebook, .cat-link.cat-slug-facebook {
+    border-bottom-color: #1877e9;
+}
+
+.site-footer .copyright {
+    text-transform: none;
+}
+
+/* Enforcement Page */
+.page-template-page-ce101 .selection-feedback h3 {
+    color: #ffffff;
+}
+.page-template-page-ce101 .hero-col-inner h1 {
+    color: #ffffff;
+}
+.page-enforcement div.uk-section:nth-child(4) {
+    display: none !important;
+}
+.single .slideshow-window {
+    margin-bottom: 1.5em !important;
+}
+@media (max-width: 639px) {
+a.app-icon {
+    margin-bottom: 0px;
+}
+.hero-mothers-day {
+    padding-top: 80px;
+}	
+}
+.home .home-hero .intro-featured {
+    max-width: 800px;
+}
+.page-template-page-reinvent .displaymax-exceeded.css-mode .js-slide-frame-fbcorp {
+    overflow-x: hidden;
+}
