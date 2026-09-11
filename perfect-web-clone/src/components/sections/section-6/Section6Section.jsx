@@ -17,15 +17,23 @@ export default function Section6Section() {
                 <div className="uk-width-3-5 article-excerpt">
                   <header className="entry-header" data-pwc-critical="header-3">
                     <div className="news-label label-line label-meta">
-                      <a className="related_news_article_link" href="/news/category/technologies/meta/">Meta</a>
+                      <a className="related_news_article_link" href="/news/category/technologies/meta/">
+                        Meta
+                      </a>
                     </div>
                     <h3 className="entry-title uk-margin-remove-top ui-body2">
-                      <a className="related_news_article_link" href="/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/" rel="bookmark">Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People</a>
+                      <a className="related_news_article_link" href="/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/" rel="bookmark">
+                        Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People
+                      </a>
                     </h3>
                     <div className="entry-meta">
                       <span className="posted-on">
-                        <time className="entry-date published" dateTime="2026-04-08T08:59:56-07:00">April 8, 2026</time>
-                        <time className="updated" dateTime="2026-05-12T07:00:03-07:00">May 12, 2026</time>
+                        <time className="entry-date published" dateTime="2026-04-08T08:59:56-07:00">
+                          April 8, 2026
+                        </time>
+                        <time className="updated" dateTime="2026-05-12T07:00:03-07:00">
+                          May 12, 2026
+                        </time>
                       </span>
                     </div>
                   </header>
@@ -43,15 +51,23 @@ export default function Section6Section() {
                 <div className="uk-width-3-5 article-excerpt">
                   <header className="entry-header" data-pwc-critical="header-4">
                     <div className="news-label label-line label-meta">
-                      <a className="related_news_article_link" href="/news/category/technologies/meta/">Meta</a>
+                      <a className="related_news_article_link" href="/news/category/technologies/meta/">
+                        Meta
+                      </a>
                     </div>
                     <h3 className="entry-title uk-margin-remove-top ui-body2">
-                      <a className="related_news_article_link" href="/news/2026/07/introducing-muse-image-meta-ai/" rel="bookmark">Introducing Muse Image: Image Generation Built for Your World</a>
+                      <a className="related_news_article_link" href="/news/2026/07/introducing-muse-image-meta-ai/" rel="bookmark">
+                        Introducing Muse Image: Image Generation Built for Your World
+                      </a>
                     </h3>
                     <div className="entry-meta">
                       <span className="posted-on">
-                        <time className="entry-date published" dateTime="2026-07-07T11:05:34-07:00">July 7, 2026</time>
-                        <time className="updated" dateTime="2026-07-29T11:54:51-07:00">July 29, 2026</time>
+                        <time className="entry-date published" dateTime="2026-07-07T11:05:34-07:00">
+                          July 7, 2026
+                        </time>
+                        <time className="updated" dateTime="2026-07-29T11:54:51-07:00">
+                          July 29, 2026
+                        </time>
                       </span>
                     </div>
                   </header>
