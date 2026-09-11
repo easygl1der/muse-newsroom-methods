@@ -1,0 +1,56 @@
+
+.news-label.label-line.label-meta a,
+.news-label.label-line.label-meta {
+  color: #1c2b33;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-bottom: 3px solid #1877f2;
+  display: inline-block;
+  line-height: 1.2;
+  padding-bottom: 2px;
+}
+.entry-title {
+  color: #1c2b33;
+  font-family: "Optimistic Display", Helvetica, Arial, sans-serif;
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 400;
+  margin: 16px 0 12px;
+}
+.post-date {
+  color: #768591;
+  font-size: 14px;
+}
+.speechify-label,
+.speechify-btn {
+  color: #1877f2;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 12px;
+  font-weight: 700;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+}
+.pwc-section-3,
+.header-section {
+  width: min(1346px, calc(100% - 94px));
+  margin: 0 auto;
+  padding: 8px 0 0;
+}
+.header-section {
+  max-width: 65%;
+}
+.speechify-player {
+  display: flex;
+  justify-content: flex-end;
+  margin: 8px 0 4px;
+}
+@media (max-width: 960px) {
+  .header-section {
+    max-width: 100%;
+  }
+}
