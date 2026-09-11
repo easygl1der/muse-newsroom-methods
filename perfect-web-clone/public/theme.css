@@ -1,6 +1,6 @@
-/* Method B theme — split for GitHub Contents/MCP size limits.
-   These imports reconstruct the captured fbcorp theme.css (766548 bytes).
-   Replace this stub with the monolithic local file via git push if available. */
+/* Method B theme reconstructed from the captured 766548-byte fbcorp theme.css.
+   Split into theme-part-00.css .. theme-part-35.css for GitHub MCP/Contents size limits.
+   Concatenating the parts in order yields the original file. */
 @import url("./theme-part-00.css");
 @import url("./theme-part-01.css");
 @import url("./theme-part-02.css");
@@ -27,3 +27,13 @@
 @import url("./theme-part-23.css");
 @import url("./theme-part-24.css");
 @import url("./theme-part-25.css");
+@import url("./theme-part-26.css");
+@import url("./theme-part-27.css");
+@import url("./theme-part-28.css");
+@import url("./theme-part-29.css");
+@import url("./theme-part-30.css");
+@import url("./theme-part-31.css");
+@import url("./theme-part-32.css");
+@import url("./theme-part-33.css");
+@import url("./theme-part-34.css");
+@import url("./theme-part-35.css");
