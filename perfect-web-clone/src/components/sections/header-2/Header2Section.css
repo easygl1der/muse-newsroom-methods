@@ -1,0 +1,39 @@
+.the-sub-nav {
+  position: sticky;
+  top: 88px;
+  z-index: 35;
+  background: #fff;
+  border-bottom: 1px solid #eef0f2;
+}
+#subnav-menu {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.header-search-container {
+  display: inline-flex;
+  align-items: center;
+}
+.pwc-section-2 {
+  width: min(1346px, calc(100% - 94px));
+  margin: 24px auto 0;
+}
+.pwc-section-2 .a_back_to_newsroom_link {
+  color: #1c2b33;
+  text-decoration: none;
+  font-size: 14px;
+}
+.related-posts-title,
+.section-title.ui-meta1 {
+  width: min(1346px, calc(100% - 94px));
+  margin: 32px auto 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
