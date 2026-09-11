@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+body {
+  padding-bottom: 96px;
+}
+
+.pwc-study-banner {
+  position: sticky;
+  top: 0;
+  z-index: 10000;
+  background: #3b0d2a;
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  padding: 10px 16px;
+  text-align: center;
+  border-bottom: 3px solid #ff8ac0;
+}
+
+.pwc-study-banner a {
+  color: #ffd0e6;
+  text-decoration: underline;
+}
+
+.pwc-banner-play {
+  display: inline-flex;
+  align-items: center;
+  margin: 0 8px;
+  border: 1px solid #ffd0e6;
+  border-radius: 999px;
+  background: #fff;
+  color: #3b0d2a;
+  font: inherit;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 4px 12px;
+  cursor: pointer;
+}
