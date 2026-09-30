@@ -40,7 +40,7 @@ function StudyBanner() {
         原站 / original
       </a>
       {" · "}
-      <a href="/NOTES.md" target="_blank" rel="noreferrer">
+      <a href={`${import.meta.env.BASE_URL}NOTES.md`} target="_blank" rel="noreferrer">
         方法笔记 / notes
       </a>
     </div>
